@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
     //this is commit
     //this is pull again
     //master's first
+    //i2's first modification
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
