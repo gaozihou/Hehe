@@ -8,7 +8,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-    private int a = 0;
+    private int a = 3, b = 5;
+    private String c = "8";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
