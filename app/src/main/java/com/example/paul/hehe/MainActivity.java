@@ -11,6 +11,7 @@ public class MainActivity extends ActionBarActivity {
     public String c = "8";
     private int a = 4, e = 7, f = 7;
     private String abc = "people", def = "human";
+    //this is commit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
