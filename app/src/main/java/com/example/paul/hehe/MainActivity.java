@@ -12,7 +12,6 @@ public class MainActivity extends ActionBarActivity {
     private int a = 4, e = 7, f = 7;
     private String abc = "people", def = "human";
     //this is commit
-    //this is pull
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
